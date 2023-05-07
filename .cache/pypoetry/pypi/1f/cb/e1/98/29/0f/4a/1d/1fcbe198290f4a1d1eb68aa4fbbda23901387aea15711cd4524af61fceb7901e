@@ -1,0 +1,1 @@
+9999999999{"name": "blobfile", "version": "2.0.2", "summary": "Read GCS, ABS and local paths with the same interface, clone of tensorflow.io.gfile", "platform": null, "requires_dist": ["pycryptodomex (~=3.8)", "urllib3 (<3,>=1.25.3)", "lxml (~=4.9)", "filelock (~=3.0)"], "requires_python": ">=3.7.0", "files": [], "_cache_version": "1.0.0"}

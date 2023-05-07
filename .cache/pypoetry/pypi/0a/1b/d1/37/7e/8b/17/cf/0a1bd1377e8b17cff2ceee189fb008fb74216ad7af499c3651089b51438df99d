@@ -1,0 +1,1 @@
+9999999999{"name": "typing-inspect", "version": "0.8.0", "summary": "Runtime inspection utilities for typing module.", "platform": null, "requires_dist": ["mypy-extensions (>=0.3.0)", "typing-extensions (>=3.7.4)", "typing (>=3.7.4) ; python_version < \"3.5\""], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

@@ -1,0 +1,1 @@
+9999999999{"name": "tenacity", "version": "8.2.2", "summary": "Retry code until it succeeds", "platform": null, "requires_dist": ["reno ; extra == 'doc'", "sphinx ; extra == 'doc'", "tornado (>=4.5) ; extra == 'doc'"], "requires_python": ">=3.6", "files": [], "_cache_version": "1.0.0"}

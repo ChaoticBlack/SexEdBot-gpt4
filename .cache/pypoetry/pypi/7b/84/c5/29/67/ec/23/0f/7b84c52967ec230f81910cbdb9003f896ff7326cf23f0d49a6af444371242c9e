@@ -1,0 +1,1 @@
+9999999999{"name": "semver", "version": "2.13.0", "summary": "Python helper for Semantic Versioning (http://semver.org/)", "platform": "", "requires_dist": null, "requires_python": ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*", "files": [], "_cache_version": "1.0.0"}

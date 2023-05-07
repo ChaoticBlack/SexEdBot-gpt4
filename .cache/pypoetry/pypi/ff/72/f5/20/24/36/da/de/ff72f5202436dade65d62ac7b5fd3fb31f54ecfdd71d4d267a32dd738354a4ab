@@ -1,0 +1,1 @@
+9999999999{"name": "inflection", "version": "0.5.1", "summary": "A port of Ruby on Rails inflector to Python", "platform": "", "requires_dist": null, "requires_python": ">=3.5", "files": [], "_cache_version": "1.0.0"}

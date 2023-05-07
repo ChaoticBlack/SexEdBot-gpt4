@@ -1,0 +1,1 @@
+9999999999{"name": "wcwidth", "version": "0.2.6", "summary": "Measures the displayed width of unicode strings in a terminal", "platform": null, "requires_dist": ["backports.functools-lru-cache (>=1.2.1) ; python_version < \"3.2\""], "requires_python": null, "files": [], "_cache_version": "1.0.0"}

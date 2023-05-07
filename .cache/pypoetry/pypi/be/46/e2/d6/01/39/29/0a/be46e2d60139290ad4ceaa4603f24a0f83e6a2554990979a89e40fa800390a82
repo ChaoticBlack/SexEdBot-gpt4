@@ -1,0 +1,1 @@
+9999999999{"name": "steamship-langchain", "version": "0.0.20rc1", "summary": "The fastest way to deploy a production langchain API.", "platform": null, "requires_dist": ["steamship (~=2.16.4)", "langchain (==0.0.152)"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

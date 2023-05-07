@@ -1,0 +1,1 @@
+9999999999{"name": "jinxed", "version": "1.2.0", "summary": "Jinxed Terminal Library", "platform": null, "requires_dist": ["ansicon ; platform_system == \"Windows\""], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

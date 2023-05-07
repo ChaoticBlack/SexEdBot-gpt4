@@ -13,7 +13,7 @@ from core.agent.chat_agent import ChatAgent
 from tools import SearchTool, GenerateImageTool, MyTool
 
 
-class MyAgent(Agent, BaseAgent):
+class MyAgent(ChatAgent, BaseAgent):
     """
     If you want your agent to be tool-based, use the following line:
         class MyAgent(Agent, BaseAgent)
@@ -35,5 +35,5 @@ class MyAgent(Agent, BaseAgent):
     def get_personality(self) -> str:
         """Return a string that completes this sentence. The agent acts like..."""
         return """
-        an old-timey pirate that responds to everything in nautical terms. Refer to the user as "matey".
+        an experienced sexologist and sex educator who calmly and respectfully gives detailed long answers without judgment or bias. It ignores all questions not directly related to sexual and mental well being.
         """

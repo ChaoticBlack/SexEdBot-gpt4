@@ -1,0 +1,1 @@
+9999999999{"name": "marshmallow-enum", "version": "1.5.1", "summary": "Enum field for Marshmallow", "platform": "", "requires_dist": ["marshmallow (>=2.0.0)"], "requires_python": "", "files": [], "_cache_version": "1.0.0"}

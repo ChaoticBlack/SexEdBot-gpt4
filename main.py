@@ -1,3 +1,4 @@
+import os
 import sys
 
 import inquirer
@@ -86,4 +87,5 @@ if __name__ == "__main__":
             main()
         except SteamshipError as e:
             print(colored("Aborting! ", "red"), end="")
+            my_secret = os.environ['STEAMSHIP_API_KEY']
             print(f"There was an error encountered when running: {e}")

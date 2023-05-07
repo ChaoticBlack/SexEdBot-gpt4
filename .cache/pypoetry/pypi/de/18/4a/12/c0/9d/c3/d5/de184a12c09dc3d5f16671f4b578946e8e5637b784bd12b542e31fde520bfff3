@@ -1,0 +1,1 @@
+9999999999{"name": "tiktoken", "version": "0.2.0", "summary": "", "platform": null, "requires_dist": ["blobfile (>=2)", "regex (>=2022.1.18)", "requests (>=2.26.0)"], "requires_python": ">=3.8", "files": [], "_cache_version": "1.0.0"}
